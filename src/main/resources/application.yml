@@ -6,4 +6,4 @@ eureka:
     fetch-registry: false
 
 sever:
-  port: 8761
+  port: 8080
